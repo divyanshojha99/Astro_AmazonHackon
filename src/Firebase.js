@@ -1,12 +1,13 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCwp9V5aNBu5E0SsLH1y4qJrLL8QWUKGhM",
-  authDomain: "clone-6abe8.firebaseapp.com",
-  projectId: "clone-6abe8",
-  storageBucket: "clone-6abe8.appspot.com",
-  messagingSenderId: "752575321294",
-  appId: "1:752575321294:web:061c2c5c5aeed11253ec9f"
+  apiKey: "AIzaSyAbeKQG5oI1IwQ2E8n9xZFMz3pEAfEe03k",
+  authDomain: "hackon-527e1.firebaseapp.com",
+  projectId: "hackon-527e1",
+  storageBucket: "hackon-527e1.appspot.com",
+  messagingSenderId: "261554025539",
+  appId: "1:261554025539:web:e79141eb0ea2e2965910f6",
+  measurementId: "G-RNPWB78QQ0"
 };
 
 // Initialize Firebase
